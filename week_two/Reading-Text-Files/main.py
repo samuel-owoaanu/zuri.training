@@ -31,8 +31,8 @@ def count_words():
         
     return word_count_dict
 
-"""print(count_words()) 
---> {'instead,': 1, 'teaching': 1, 'once': 1, 'am': 1, 'walked': 1, 'or': 1, 'asked,': 1, 'this': 1, 'water': 2, 'glass': 4, 'be': 1, 
+#print(count_words()) 
+"""--> {'instead,': 1, 'teaching': 1, 'once': 1, 'am': 1, 'walked': 1, 'or': 1, 'asked,': 1, 'this': 1, 'water': 2, 'glass': 4, 'be': 1, 
 'empty': 1, 'would': 1, 'everyone': 1, 'principles': 1, 'while': 1, 'upon': 1, 'time': 1, 'half': 2, 'the': 3, 'holding?': 1, 'typical': 1, 
 'auditorium': 1, 'raised': 1, 'smile': 1, 'how': 1, 'question.': 1, 'face,': 1, 'an': 1, 'professor': 2, 'she': 1, 'is': 1, 'students.': 1, 
 'of': 2, 'stress': 1, 'heavy': 1, 'i': 3, 'her': 1, 'around': 1, 'management': 1, 'psychology': 1, 'stage': 1, 'water,': 1, 'a': 12, 'to': 1, 
