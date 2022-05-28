@@ -17,4 +17,4 @@ def find_anagram(word, anagram):
     anagram = ''.join(re.split('\W',anagram))
     return sorted(word) == sorted(anagram)
     
-print(find_anagram("below", "elbow"))
+# print(find_anagram("below", "elbow")) --> True 
