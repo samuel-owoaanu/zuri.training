@@ -1,3 +1,8 @@
+"""
+    Zuri Python Backend Tasks  
+    >> Rock Paper Scissors Task
+    by Samuel Adebayo-Adesina
+"""
 from random import choice as rand_choice
 
 game_db = [
